@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-08-26 16:04:48",
+  "count": 1,
+  "signatures": [
+    {
+      "name": "EICAR-Test-File (标准杀软测试样本)",
+      "md5": "44d88612fea8a8f36de82e1278abb02f",
+      "sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+      "type": "test",
+      "desc": "EICAR 标准防病毒测试文件，用于验证杀毒软件是否正常工作，本身无害。",
+      "added": "2026-08-26 16:04:48"
+    }
+  ]
+}
